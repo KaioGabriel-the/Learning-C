@@ -1,7 +1,11 @@
 # ninja log v6
 76	242	7501843566981559	CMakeFiles/Learning_C.dir/Arithmetic_operations/square.c.obj	ce30a2c36d76b13e
-9	119	7501847357668127	CMakeFiles/Learning_C.dir/Arithmetic_operations/sphere.c.obj	d3c1a0d11a881f2c
 35	257	7501843566572707	CMakeFiles/Learning_C.dir/Arithmetic_operations/increase.c.obj	c82fbbcd36efd62e
+9	119	7501847357668127	CMakeFiles/Learning_C.dir/Arithmetic_operations/sphere.c.obj	d3c1a0d11a881f2c
+67	914	7502738237869861	build.ninja	e20810234104aed7
 54	248	7501843566760728	CMakeFiles/Learning_C.dir/Arithmetic_operations/rest.c.obj	2051637c136942b8
-23	258	7501843566460870	CMakeFiles/Learning_C.dir/Arithmetic_operations/conversionmskmh.c.obj	16485f22153eb7fd
 45	259	7501843566665664	CMakeFiles/Learning_C.dir/Arithmetic_operations/inverse.c.obj	98c1c294b096b73a
+23	258	7501843566460870	CMakeFiles/Learning_C.dir/Arithmetic_operations/conversionmskmh.c.obj	16485f22153eb7fd
+39	237	7502637843714051	CMakeFiles/Learning_C.dir/Arithmetic_operations/convertionkmm.c.obj	bf5d8bc4c43b3f7c
+48	240	7502637843797431	CMakeFiles/Learning_C.dir/Conditional/notes.c.obj	ee60aa41ad2f2cb2
+31	242	7502637843634627	CMakeFiles/Learning_C.dir/Arithmetic_operations/temper.c.obj	67c51afcbd739745
