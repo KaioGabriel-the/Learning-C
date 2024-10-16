@@ -13,4 +13,5 @@ add_executable(Learning_C
         Arithmetic_operations/temper.c
         Arithmetic_operations/convertionkmm.c
         Conditional/notes.c
-        Conditional/verificationdate.c)
+        Conditional/verificationdate.c
+        Conditional/triangle.c)
