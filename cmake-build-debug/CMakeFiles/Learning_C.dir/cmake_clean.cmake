@@ -17,6 +17,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Learning_C.dir/Arithmetic_operations/temper.c.obj.d"
   "CMakeFiles/Learning_C.dir/Conditional/notes.c.obj"
   "CMakeFiles/Learning_C.dir/Conditional/notes.c.obj.d"
+  "CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj"
+  "CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj.d"
   "CMakeFiles/Learning_C.dir/Conditional/triangle.c.obj"
   "CMakeFiles/Learning_C.dir/Conditional/triangle.c.obj.d"
   "CMakeFiles/Learning_C.dir/Conditional/verificationdate.c.obj"

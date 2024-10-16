@@ -344,6 +344,30 @@ Conditional/notes.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/notes.c.s
 .PHONY : Conditional/notes.c.s
 
+Conditional/pairofodd.obj: Conditional/pairofodd.c.obj
+.PHONY : Conditional/pairofodd.obj
+
+# target to build an object file
+Conditional/pairofodd.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj
+.PHONY : Conditional/pairofodd.c.obj
+
+Conditional/pairofodd.i: Conditional/pairofodd.c.i
+.PHONY : Conditional/pairofodd.i
+
+# target to preprocess a source file
+Conditional/pairofodd.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.i
+.PHONY : Conditional/pairofodd.c.i
+
+Conditional/pairofodd.s: Conditional/pairofodd.c.s
+.PHONY : Conditional/pairofodd.s
+
+# target to generate assembly for a file
+Conditional/pairofodd.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.s
+.PHONY : Conditional/pairofodd.c.s
+
 Conditional/triangle.obj: Conditional/triangle.c.obj
 .PHONY : Conditional/triangle.obj
 
@@ -428,6 +452,9 @@ help:
 	@echo ... Conditional/notes.obj
 	@echo ... Conditional/notes.i
 	@echo ... Conditional/notes.s
+	@echo ... Conditional/pairofodd.obj
+	@echo ... Conditional/pairofodd.i
+	@echo ... Conditional/pairofodd.s
 	@echo ... Conditional/triangle.obj
 	@echo ... Conditional/triangle.i
 	@echo ... Conditional/triangle.s
