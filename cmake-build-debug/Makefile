@@ -320,6 +320,54 @@ Arithmetic_operations/temper.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Arithmetic_operations/temper.c.s
 .PHONY : Arithmetic_operations/temper.c.s
 
+Conditional/Salary.obj: Conditional/Salary.c.obj
+.PHONY : Conditional/Salary.obj
+
+# target to build an object file
+Conditional/Salary.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj
+.PHONY : Conditional/Salary.c.obj
+
+Conditional/Salary.i: Conditional/Salary.c.i
+.PHONY : Conditional/Salary.i
+
+# target to preprocess a source file
+Conditional/Salary.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/Salary.c.i
+.PHONY : Conditional/Salary.c.i
+
+Conditional/Salary.s: Conditional/Salary.c.s
+.PHONY : Conditional/Salary.s
+
+# target to generate assembly for a file
+Conditional/Salary.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/Salary.c.s
+.PHONY : Conditional/Salary.c.s
+
+Conditional/killer.obj: Conditional/killer.c.obj
+.PHONY : Conditional/killer.obj
+
+# target to build an object file
+Conditional/killer.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/killer.c.obj
+.PHONY : Conditional/killer.c.obj
+
+Conditional/killer.i: Conditional/killer.c.i
+.PHONY : Conditional/killer.i
+
+# target to preprocess a source file
+Conditional/killer.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/killer.c.i
+.PHONY : Conditional/killer.c.i
+
+Conditional/killer.s: Conditional/killer.c.s
+.PHONY : Conditional/killer.s
+
+# target to generate assembly for a file
+Conditional/killer.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/killer.c.s
+.PHONY : Conditional/killer.c.s
+
 Conditional/notes.obj: Conditional/notes.c.obj
 .PHONY : Conditional/notes.obj
 
@@ -416,6 +464,30 @@ Conditional/verificationdate.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/verificationdate.c.s
 .PHONY : Conditional/verificationdate.c.s
 
+Conditional/week.obj: Conditional/week.c.obj
+.PHONY : Conditional/week.obj
+
+# target to build an object file
+Conditional/week.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/week.c.obj
+.PHONY : Conditional/week.c.obj
+
+Conditional/week.i: Conditional/week.c.i
+.PHONY : Conditional/week.i
+
+# target to preprocess a source file
+Conditional/week.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/week.c.i
+.PHONY : Conditional/week.c.i
+
+Conditional/week.s: Conditional/week.c.s
+.PHONY : Conditional/week.s
+
+# target to generate assembly for a file
+Conditional/week.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/week.c.s
+.PHONY : Conditional/week.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -449,6 +521,12 @@ help:
 	@echo ... Arithmetic_operations/temper.obj
 	@echo ... Arithmetic_operations/temper.i
 	@echo ... Arithmetic_operations/temper.s
+	@echo ... Conditional/Salary.obj
+	@echo ... Conditional/Salary.i
+	@echo ... Conditional/Salary.s
+	@echo ... Conditional/killer.obj
+	@echo ... Conditional/killer.i
+	@echo ... Conditional/killer.s
 	@echo ... Conditional/notes.obj
 	@echo ... Conditional/notes.i
 	@echo ... Conditional/notes.s
@@ -461,6 +539,9 @@ help:
 	@echo ... Conditional/verificationdate.obj
 	@echo ... Conditional/verificationdate.i
 	@echo ... Conditional/verificationdate.s
+	@echo ... Conditional/week.obj
+	@echo ... Conditional/week.i
+	@echo ... Conditional/week.s
 .PHONY : help
 
 

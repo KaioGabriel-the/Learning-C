@@ -15,4 +15,7 @@ add_executable(Learning_C
         Conditional/notes.c
         Conditional/verificationdate.c
         Conditional/triangle.c
-        Conditional/pairofodd.c)
+        Conditional/pairofodd.c
+        Conditional/Salary.c
+        Conditional/week.c
+        Conditional/killer.c)

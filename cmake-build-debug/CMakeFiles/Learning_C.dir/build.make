@@ -236,6 +236,48 @@ CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\labir\Documents\kaioads\Learning-C\Conditional\pairofodd.c -o CMakeFiles\Learning_C.dir\Conditional\pairofodd.c.s
 
+CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj: CMakeFiles/Learning_C.dir/flags.make
+CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj: C:/Users/labir/Documents/kaioads/Learning-C/Conditional/Salary.c
+CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj: CMakeFiles/Learning_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj -MF CMakeFiles\Learning_C.dir\Conditional\Salary.c.obj.d -o CMakeFiles\Learning_C.dir\Conditional\Salary.c.obj -c C:\Users\labir\Documents\kaioads\Learning-C\Conditional\Salary.c
+
+CMakeFiles/Learning_C.dir/Conditional/Salary.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Learning_C.dir/Conditional/Salary.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\labir\Documents\kaioads\Learning-C\Conditional\Salary.c > CMakeFiles\Learning_C.dir\Conditional\Salary.c.i
+
+CMakeFiles/Learning_C.dir/Conditional/Salary.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Learning_C.dir/Conditional/Salary.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\labir\Documents\kaioads\Learning-C\Conditional\Salary.c -o CMakeFiles\Learning_C.dir\Conditional\Salary.c.s
+
+CMakeFiles/Learning_C.dir/Conditional/week.c.obj: CMakeFiles/Learning_C.dir/flags.make
+CMakeFiles/Learning_C.dir/Conditional/week.c.obj: C:/Users/labir/Documents/kaioads/Learning-C/Conditional/week.c
+CMakeFiles/Learning_C.dir/Conditional/week.c.obj: CMakeFiles/Learning_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Learning_C.dir/Conditional/week.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Learning_C.dir/Conditional/week.c.obj -MF CMakeFiles\Learning_C.dir\Conditional\week.c.obj.d -o CMakeFiles\Learning_C.dir\Conditional\week.c.obj -c C:\Users\labir\Documents\kaioads\Learning-C\Conditional\week.c
+
+CMakeFiles/Learning_C.dir/Conditional/week.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Learning_C.dir/Conditional/week.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\labir\Documents\kaioads\Learning-C\Conditional\week.c > CMakeFiles\Learning_C.dir\Conditional\week.c.i
+
+CMakeFiles/Learning_C.dir/Conditional/week.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Learning_C.dir/Conditional/week.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\labir\Documents\kaioads\Learning-C\Conditional\week.c -o CMakeFiles\Learning_C.dir\Conditional\week.c.s
+
+CMakeFiles/Learning_C.dir/Conditional/killer.c.obj: CMakeFiles/Learning_C.dir/flags.make
+CMakeFiles/Learning_C.dir/Conditional/killer.c.obj: C:/Users/labir/Documents/kaioads/Learning-C/Conditional/killer.c
+CMakeFiles/Learning_C.dir/Conditional/killer.c.obj: CMakeFiles/Learning_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Learning_C.dir/Conditional/killer.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Learning_C.dir/Conditional/killer.c.obj -MF CMakeFiles\Learning_C.dir\Conditional\killer.c.obj.d -o CMakeFiles\Learning_C.dir\Conditional\killer.c.obj -c C:\Users\labir\Documents\kaioads\Learning-C\Conditional\killer.c
+
+CMakeFiles/Learning_C.dir/Conditional/killer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Learning_C.dir/Conditional/killer.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\labir\Documents\kaioads\Learning-C\Conditional\killer.c > CMakeFiles\Learning_C.dir\Conditional\killer.c.i
+
+CMakeFiles/Learning_C.dir/Conditional/killer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Learning_C.dir/Conditional/killer.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\labir\Documents\kaioads\Learning-C\Conditional\killer.c -o CMakeFiles\Learning_C.dir\Conditional\killer.c.s
+
 # Object files for target Learning_C
 Learning_C_OBJECTS = \
 "CMakeFiles/Learning_C.dir/Arithmetic_operations/conversionmskmh.c.obj" \
@@ -249,7 +291,10 @@ Learning_C_OBJECTS = \
 "CMakeFiles/Learning_C.dir/Conditional/notes.c.obj" \
 "CMakeFiles/Learning_C.dir/Conditional/verificationdate.c.obj" \
 "CMakeFiles/Learning_C.dir/Conditional/triangle.c.obj" \
-"CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj"
+"CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj" \
+"CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj" \
+"CMakeFiles/Learning_C.dir/Conditional/week.c.obj" \
+"CMakeFiles/Learning_C.dir/Conditional/killer.c.obj"
 
 # External object files for target Learning_C
 Learning_C_EXTERNAL_OBJECTS =
@@ -266,11 +311,14 @@ Learning_C.exe: CMakeFiles/Learning_C.dir/Conditional/notes.c.obj
 Learning_C.exe: CMakeFiles/Learning_C.dir/Conditional/verificationdate.c.obj
 Learning_C.exe: CMakeFiles/Learning_C.dir/Conditional/triangle.c.obj
 Learning_C.exe: CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj
+Learning_C.exe: CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj
+Learning_C.exe: CMakeFiles/Learning_C.dir/Conditional/week.c.obj
+Learning_C.exe: CMakeFiles/Learning_C.dir/Conditional/killer.c.obj
 Learning_C.exe: CMakeFiles/Learning_C.dir/build.make
 Learning_C.exe: CMakeFiles/Learning_C.dir/linkLibs.rsp
 Learning_C.exe: CMakeFiles/Learning_C.dir/objects1.rsp
 Learning_C.exe: CMakeFiles/Learning_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking C executable Learning_C.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C executable Learning_C.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Learning_C.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

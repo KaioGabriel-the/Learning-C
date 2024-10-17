@@ -16,10 +16,13 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/labir/Documents/kaioads/Learning-C/Arithmetic_operations/sphere.c" "CMakeFiles/Learning_C.dir/Arithmetic_operations/sphere.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Arithmetic_operations/sphere.c.obj.d"
   "C:/Users/labir/Documents/kaioads/Learning-C/Arithmetic_operations/square.c" "CMakeFiles/Learning_C.dir/Arithmetic_operations/square.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Arithmetic_operations/square.c.obj.d"
   "C:/Users/labir/Documents/kaioads/Learning-C/Arithmetic_operations/temper.c" "CMakeFiles/Learning_C.dir/Arithmetic_operations/temper.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Arithmetic_operations/temper.c.obj.d"
+  "C:/Users/labir/Documents/kaioads/Learning-C/Conditional/Salary.c" "CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Conditional/Salary.c.obj.d"
+  "C:/Users/labir/Documents/kaioads/Learning-C/Conditional/killer.c" "CMakeFiles/Learning_C.dir/Conditional/killer.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Conditional/killer.c.obj.d"
   "C:/Users/labir/Documents/kaioads/Learning-C/Conditional/notes.c" "CMakeFiles/Learning_C.dir/Conditional/notes.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Conditional/notes.c.obj.d"
   "C:/Users/labir/Documents/kaioads/Learning-C/Conditional/pairofodd.c" "CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Conditional/pairofodd.c.obj.d"
   "C:/Users/labir/Documents/kaioads/Learning-C/Conditional/triangle.c" "CMakeFiles/Learning_C.dir/Conditional/triangle.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Conditional/triangle.c.obj.d"
   "C:/Users/labir/Documents/kaioads/Learning-C/Conditional/verificationdate.c" "CMakeFiles/Learning_C.dir/Conditional/verificationdate.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Conditional/verificationdate.c.obj.d"
+  "C:/Users/labir/Documents/kaioads/Learning-C/Conditional/week.c" "CMakeFiles/Learning_C.dir/Conditional/week.c.obj" "gcc" "CMakeFiles/Learning_C.dir/Conditional/week.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
