@@ -18,4 +18,7 @@ add_executable(Learning_C
         Conditional/pairofodd.c
         Conditional/Salary.c
         Conditional/week.c
-        Conditional/killer.c)
+        Conditional/killer.c
+        Structures/student.c
+        Structures/product.c
+)
