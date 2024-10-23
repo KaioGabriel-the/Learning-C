@@ -19,7 +19,7 @@ void clear(void) {
 int main(void) {
     struct PRODUCT product[2];
 
-    for(int i = 0;i < sizeof(product)/sizeof(product[0]);i++){
+    for(int i = 0;i < 2;i++){
 
         puts("DIGITE O NOME DO PRODUTO: ");
         scanf("%24s",product[i].name);
@@ -28,17 +28,17 @@ int main(void) {
         scanf("%24s",product[i].category);
 
         puts("DIGITE O VALOR DO PRODUTO: ");
-        scanf("%f",product[i].value);
+        scanf("%f",&product[i].value);
     }
 
     clear();
     puts("OS PRODUTOS FORAM COMPUTADOS...");
     puts(" ----- LISTA DE PRODUTOS ----- \n");
 
-    for (int i = 0;i < sizeof(product)/sizeof(product[0]);i++) {
-        printf("PRODUTO: %s",product[i].name);
-        printf("CATEGORIA DO PRODUTO: %s",product[i].category);
-        printf("O VALOR DO PRODUTO: %f",product[i].value);
+    for (int i = 0;i < 2;i++) {
+        printf("PRODUTO: %s \n",product[i].name);
+        printf("CATEGORIA DO PRODUTO: %s \n",product[i].category);
+        printf("O VALOR DO PRODUTO: %.2f \n \n",product[i].value);
     }
 
     return 0;
