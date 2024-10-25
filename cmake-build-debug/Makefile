@@ -47,19 +47,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\labir\Documents\kaioads\Learning-C
+CMAKE_SOURCE_DIR = C:\Users\labir\Documents\kaiogabriel\Learning-C
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\labir\Documents\kaiogabriel\Learning-C\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\CMakeFiles C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\labir\Documents\kaiogabriel\Learning-C\cmake-build-debug\CMakeFiles C:\Users\labir\Documents\kaiogabriel\Learning-C\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\labir\Documents\kaioads\Learning-C\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\labir\Documents\kaiogabriel\Learning-C\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -488,6 +488,30 @@ Conditional/week.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Conditional/week.c.s
 .PHONY : Conditional/week.c.s
 
+Structures/characters.obj: Structures/characters.c.obj
+.PHONY : Structures/characters.obj
+
+# target to build an object file
+Structures/characters.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Structures/characters.c.obj
+.PHONY : Structures/characters.c.obj
+
+Structures/characters.i: Structures/characters.c.i
+.PHONY : Structures/characters.i
+
+# target to preprocess a source file
+Structures/characters.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Structures/characters.c.i
+.PHONY : Structures/characters.c.i
+
+Structures/characters.s: Structures/characters.c.s
+.PHONY : Structures/characters.s
+
+# target to generate assembly for a file
+Structures/characters.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning_C.dir\build.make CMakeFiles/Learning_C.dir/Structures/characters.c.s
+.PHONY : Structures/characters.c.s
+
 Structures/product.obj: Structures/product.c.obj
 .PHONY : Structures/product.obj
 
@@ -590,6 +614,9 @@ help:
 	@echo ... Conditional/week.obj
 	@echo ... Conditional/week.i
 	@echo ... Conditional/week.s
+	@echo ... Structures/characters.obj
+	@echo ... Structures/characters.i
+	@echo ... Structures/characters.s
 	@echo ... Structures/product.obj
 	@echo ... Structures/product.i
 	@echo ... Structures/product.s

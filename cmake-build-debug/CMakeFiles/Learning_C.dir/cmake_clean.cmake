@@ -29,6 +29,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Learning_C.dir/Conditional/verificationdate.c.obj.d"
   "CMakeFiles/Learning_C.dir/Conditional/week.c.obj"
   "CMakeFiles/Learning_C.dir/Conditional/week.c.obj.d"
+  "CMakeFiles/Learning_C.dir/Structures/characters.c.obj"
+  "CMakeFiles/Learning_C.dir/Structures/characters.c.obj.d"
   "CMakeFiles/Learning_C.dir/Structures/product.c.obj"
   "CMakeFiles/Learning_C.dir/Structures/product.c.obj.d"
   "CMakeFiles/Learning_C.dir/Structures/student.c.obj"

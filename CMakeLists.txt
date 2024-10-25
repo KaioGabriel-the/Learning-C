@@ -21,4 +21,5 @@ add_executable(Learning_C
         Conditional/killer.c
         Structures/student.c
         Structures/product.c
+        Structures/characters.c
 )
